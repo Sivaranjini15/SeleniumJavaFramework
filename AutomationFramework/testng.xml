@@ -1,0 +1,7 @@
+<suite name="Suitedemo">
+  <test thread-count="5" name="Testdemo">
+    <classes>
+      <class name="testsample.FacebookLoginTest_testng"/>
+    </classes>
+  </test> 
+</suite> 
