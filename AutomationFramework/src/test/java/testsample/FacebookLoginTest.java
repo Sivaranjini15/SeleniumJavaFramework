@@ -10,7 +10,7 @@ public class FacebookLoginTest {
 	
 public static void main(String[]args) throws InterruptedException {
 	
-	System.setProperty("webdriver.chrome.driver", "C:\\Users\\user\\eclipse-workspace\\AutomationFramework\\drivers\\chrome driver\\chromedriver.exe");
+	System.setProperty("webdriver.chrome.driver", "C:\\Users\\user\\git\\SeleniumJavaFramework\\AutomationFramework\\driver\\chromedriver.exe");
 	
 	Driver = new ChromeDriver();
 	

@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="demo.TestNGFailedTC">
+      <class name="demo.firstTc">
         <methods>
-          <include name="Test2"/>
+          <include name="firstExe"/>
         </methods>
-      </class> <!-- demo.TestNGFailedTC -->
+      </class> <!-- demo.firstTc -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

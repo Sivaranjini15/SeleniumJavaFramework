@@ -10,8 +10,7 @@ public class DMP_Testing {
 	public static void main(String[] args) throws InterruptedException {
 
 
-	System.setProperty("webdriver.chrome.driver", "C:\\Users\\user\\eclipse-workspace\\AutomationFramework\\drivers\\chrome driver\\chromedriver.exe");
-
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\user\\git\\SeleniumJavaFramework\\AutomationFramework\\driver\\chromedriver.exe");
 	 WebDriver driver = new ChromeDriver();
 	
 	 driver.get("http://54.89.207.24/");
